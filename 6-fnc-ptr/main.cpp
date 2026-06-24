@@ -50,7 +50,7 @@ int main() {
 
     std::vector<int> numbers1 = {52, 112, 29, 11, 70, 321};
 
-    std::cout << "\n\n" << "============Using pointer functions ===========\n\n";
+    std::cout << "\n\n" << "============Using function pointers ===========\n\n";
 
     std::cout << "Given vector : ";
     for (int num : numbers1) {
